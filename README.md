@@ -1,2 +1,2 @@
-# wadtask-1
-basic html code for a skin care shop without styling 
+# WEB DEV LAB ARCHIVE 
+CODE FOR ALL OF MY WAD PRACTICAL WORKS
